@@ -109,7 +109,7 @@ A modern Flutter wellness application focused on hydration tracking, sleep monit
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sip_sleep.git
+git clone https://github.com/SalmaEzzer/sip_sleep.git
 cd sip_sleep
 flutter pub get
 flutter run
